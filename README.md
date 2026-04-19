@@ -2,7 +2,7 @@
 
  **Mission:** From MERN Foundation to AI-Integrated Full Stack Engineer.
 
- **Status:** Day 2 
+ **Status:** Day 3 
 
  **Goal:** Solve high-frequency problems & master core DSA patterns.
 
@@ -11,8 +11,7 @@
 ## 📊 Stats
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 2 Days |
-| **Total Problems** | 2  |
+| **Current Streak** | 3 Days |
 | **Primary Language** | JavaScript (ES6+) |
 | **Secondary Language**| Python (AI/ML Revision) |
 | **Target Role** | Junior MERN + AI/ML Engineer |
@@ -26,5 +25,7 @@
 * **Day 2:** [Add Two Numbers](./Day1-20/Day2_AddTwoNumbers.js) | [Link 🔗](https://leetcode.com/problems/add-two-numbers/) 
   - Struggled with the carry logic on the final node.
   - *Pattern: Linked List | Difficulty: Medium*
+* **Day 3:** [Longest Common Prefix](./Day1-20/Day3_longestcommonprefix.js) | [Link 🔗](https://leetcode.com/problems/longest-common-prefix/) 
+  - *Pattern: Array | Difficulty: Easy*
 ---
 *Follow my journey to a technical role. Built with discipline, one commit at a time.*
