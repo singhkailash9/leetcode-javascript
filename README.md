@@ -2,7 +2,7 @@
 
  **Mission:** From MERN Foundation to AI-Integrated Full Stack Engineer.
 
- **Status:** Day 6 
+ **Status:** Day 7
 
  **Goal:** Solve high-frequency problems & master core DSA patterns.
 
@@ -11,7 +11,7 @@
 ## 📊 Stats
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 6 Days |
+| **Current Streak** | 7 Days |
 | **Primary Language** | JavaScript (ES6+) |
 | **Secondary Language**| Python (AI/ML Revision) |
 | **Target Role** | Junior MERN + AI/ML Engineer |
@@ -32,6 +32,8 @@
 * **Day 5:** [Contains Duplicate](./Day1-20/Day5_ContainsDuplicate.js) | [Link 🔗](https://leetcode.com/problems/contains-duplicate/) 
   - *Pattern: Array | Difficulty: Easy*
 * **Day 6:** [Missing Numbers](./Day1-20/Day6_MissingNumbers.js) | [Link 🔗](https://leetcode.com/problems/missing-number/) 
+  - *Pattern: Array | Difficulty: Easy*
+* **Day 7:** [Find all Number Disappeared in an Array](./Day1-20/Day7_NumberDisappeared.js) | [Link 🔗](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) 
   - *Pattern: Array | Difficulty: Easy*
 ---
 *Follow my journey to a technical role. Built with discipline, one commit at a time.*
