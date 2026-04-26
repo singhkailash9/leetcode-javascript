@@ -2,7 +2,7 @@
 
  **Mission:** From MERN Foundation to AI-Integrated Full Stack Engineer.
 
- **Status:** Day 9
+ **Status:** Day 10
 
  **Goal:** Solve high-frequency problems & master core DSA patterns.
 
@@ -11,7 +11,7 @@
 ## 📊 Stats
 | Metric | Status |
 | :--- | :--- |
-| **Current Streak** | 9 Days |
+| **Current Streak** | 10 Days |
 | **Primary Language** | JavaScript (ES6+) |
 | **Secondary Language**| Python (AI/ML Revision) |
 | **Target Role** | Junior MERN + AI/ML Engineer |
@@ -39,5 +39,7 @@
   - *Pattern: Array | Difficulty: Easy*
 * **Day 9:** [Minimum Time Visiting All Points](./Day1-20/Day9_MinimumTimeVisiting.js) | [Link 🔗](https://leetcode.com/problems/minimum-time-visiting-all-points/) 
   - *Pattern: Array | Difficulty: Easy*
+* **Day 10:** [Spiral Matrix](./Day1-20/Day10_SpiralMatrix.js) | [Link 🔗](https://leetcode.com/problems/spiral-matrix/) 
+  - *Pattern: Array | Difficulty: Medium*
 ---
 *Follow my journey to a technical role. Built with discipline, one commit at a time.*
