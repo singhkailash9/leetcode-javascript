@@ -2,7 +2,7 @@
 
  **Mission:** From MERN Foundation to AI-Integrated Full Stack Engineer.
 
- **Status:** Day 11
+ **Status:** Day 12
 
  **Goal:** Solve high-frequency problems & master core DSA patterns.
 
@@ -42,5 +42,7 @@
   - *Pattern: Array | Difficulty: Medium*
 * **Day 11:** [Number of Islands](./Day1-20/Day11_NumberOfIslands.js) | [Link 🔗](https://leetcode.com/problems/number-of-islands/) 
   - *Pattern: Array | Difficulty: Medium*
+* **Day 12:** [Best Time to buy and sell stock](./Day1-20/Day12_buysellstock.js) | [Link 🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 
+  - *Pattern: Array | Difficulty: Easy*
 ---
 *Follow my journey to a technical role. Built with discipline, one commit at a time.*
