@@ -2,7 +2,7 @@
 
  **Mission:** From MERN Foundation to AI-Integrated Full Stack Engineer.
 
- **Status:** Day 14
+ **Status:** Day 15
 
  **Goal:** Solve high-frequency problems & master core DSA patterns.
 
@@ -47,6 +47,8 @@
 * **Day 13:** [Squares of a sorted array](./Day1-20/Day13_squareSortedArray.js) | [Link 🔗](http://leetcode.com/problems/squares-of-a-sorted-array/) 
   - *Pattern: Array | Difficulty: Easy*
 * **Day 14:** [3 Sum](./Day1-20/Day14_3sum.js) | [Link 🔗](https://leetcode.com/problems/3sum/) 
+  - *Pattern: Array | Difficulty: Medium*
+* **Day 15:** [Longest Mountain in Array](./Day1-20/Day15_longestMountain.js) | [Link 🔗](https://leetcode.com/problems/longest-mountain-in-array/) 
   - *Pattern: Array | Difficulty: Medium*
 ---
 *Follow my journey to a technical role. Built with discipline, one commit at a time.*
