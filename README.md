@@ -2,7 +2,7 @@
 
  **Mission:** From MERN Foundation to AI-Integrated Full Stack Engineer.
 
- **Status:** Day 18
+ **Status:** Day 19
 
  **Goal:** Solve high-frequency problems & master core DSA patterns.
 
@@ -56,5 +56,7 @@
   - *Pattern: Array | Difficulty: Easy*
 * **Day 18:** [Minimum Size Subarray Sum](./Day1-20/Day18_minSizeSubarray.js) | [Link 🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) 
   - *Pattern: Array | Difficulty: Medium*
+* **Day 19:** [Single Number](./Day1-20/Day19_singleNumber.js) | [Link 🔗](https://leetcode.com/problems/single-number/) 
+  - *Pattern: Array | Difficulty: Easy*
 ---
 *Follow my journey to a technical role. Built with discipline, one commit at a time.*
